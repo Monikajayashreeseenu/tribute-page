@@ -14,11 +14,15 @@ Designed the page with light pastel color themes using CSS
 Used Flexbox for proper alignment of text and images
 Added basic interactivity using JavaScript
 Tested the webpage for responsiveness and usability
+
 Tools Used:
 
 HTML
+
 CSS
+
 JavaScript
+
 Visual Studio Code
 
 Outcome:
